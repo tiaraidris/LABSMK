@@ -1,4 +1,4 @@
-                                                                        # LABSMK
+![padamu](https://github.com/tiaraidris/LABSMK/assets/156057283/22007658-f8c1-4550-922f-760a55758d02)# LABSMK
 **Cara Menggunakan GitHub Bagi Pemula**
 Bagian ini akan menjelaskan langkah-langkah yang perlu kamu ikuti untuk menggunakan GitHub.
 entu langkah pertama yang harus kamu lakukan adalah mengunjungi website github. Pada tahap pertama ini kamu bisa scroll down dulu untuk mengetahui tentang product knowledge dari GitHub itu sendiri. Lalu, kamu diwajibkan untuk mendaftarkan sebuah akun GitHub dengan menekan tombol “sign-up” atau mengisi langsung formulir putih 
@@ -7,5 +7,7 @@ Sayangnya, platform ini menggunakan satu bahasa, yakni bahasa Inggris. Jadi, bag
 Lengkapi Akun Profil
 Setelah berhasil masuk ke akun GitHub, alangkah baiknya jika kamu mengisi profil kamu secara lengkap. Pada pojok kanan atas halaman kamu bisa klik tombol foto dan pilih menu setting. Lalu isi form dari nama hingga preferred spoken language agar memudahkan kita berkomunikasi ke depannya. Setelah itu simpan semua form yang telah diisi.
 
+![padamu.JPG](padamu.JPG)
 
-[HASIL MENGEDIT DI INKSCAPE.JPG](HASIL MENGEDIT DI INKSCAPE.JPG)
+
+
