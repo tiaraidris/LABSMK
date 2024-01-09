@@ -7,3 +7,4 @@ Sayangnya, platform ini menggunakan satu bahasa, yakni bahasa Inggris. Jadi, bag
 Lengkapi Akun Profil
 Setelah berhasil masuk ke akun GitHub, alangkah baiknya jika kamu mengisi profil kamu secara lengkap. Pada pojok kanan atas halaman kamu bisa klik tombol foto dan pilih menu setting. Lalu isi form dari nama hingga preferred spoken language agar memudahkan kita berkomunikasi ke depannya. Setelah itu simpan semua form yang telah diisi.
 [tiara](tiara)
+
